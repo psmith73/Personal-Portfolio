@@ -48,8 +48,6 @@
     padding: 5px 10px 10px 10px;
   }
   .nav a {
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
     transition: all .5s;
   }
   .nav a:hover {
@@ -74,8 +72,6 @@
     border-radius: 70%;
     border: 5px solid rgba(8, 75, 25, 0.979);
     transition: all .5s;
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
   }
   header .profile-image:hover {
     transform: scale(1.2) rotate(-10deg);
@@ -97,9 +93,6 @@
     margin: 75px auto;
     max-width: 1000px;
     transition: all .5s;
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
-    
   }
   .location {
     background-color: #ffffff;
@@ -114,8 +107,6 @@
     border-bottom: 4px solid #ccc;
     border-radius: 6px;
     transition: all .5s;
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
   }
   .img{
     width: 300px;
@@ -172,8 +163,6 @@
     background-size: 30px 30px;
     opacity: .4;
     transition: all .5s;
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
     color: rgba(8, 75, 25, 0.979)
   } 
   
