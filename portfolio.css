@@ -56,7 +56,7 @@
   
   header {
     text-align: center;
-    background: url('/Users/phil/Desktop/Treehouse/PersonalPortfolio/forest.jpg');
+    background: url('forest.jpg');
     /* background-size: full; */
     background-position: center 59%; /* Declared position allows for location changes */
     overflow: hidden;
